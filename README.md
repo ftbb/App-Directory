@@ -1,3 +1,5 @@
+This project has been archived, please see https://github.com/FDC3/appd-api for the official Application Directory specification and API.
+
 # App-Directory
 The FDC3 App Directory - specifications and implementations.
 
